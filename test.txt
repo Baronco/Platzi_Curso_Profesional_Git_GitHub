@@ -1,0 +1,2 @@
+Este archivo de texto lo uso como prueba para crear
+un repositorio de git usando bash
