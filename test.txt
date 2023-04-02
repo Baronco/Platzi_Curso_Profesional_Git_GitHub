@@ -2,3 +2,4 @@ Este archivo de texto lo uso como prueba para crear
 un repositorio de git usando bash en windows.
 Iniciamos un proyecto de html
 Tambien se añade un css
+A las 5 de la tarde conectamos el repositorio local con el remoto
